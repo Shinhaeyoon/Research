@@ -1,2 +1,1 @@
-# Lab
-Finding phase transition temperature using Support Vector Regression (SVR)
+# Finding phase transition temperature using Support Vector Regression (SVR)
